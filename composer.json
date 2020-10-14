@@ -1,0 +1,14 @@
+{
+    "name": "rajviclarion/paymentgateway",
+    "description": "custom payment gateway",
+    "type": "plugin",
+    "license": "1.0.0",
+    "authors": [
+        {
+            "name": "Clarion Tech",
+            "email": "clarion@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
